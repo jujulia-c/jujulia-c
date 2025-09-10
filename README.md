@@ -2,7 +2,8 @@
 
 ##  Sobre mim
 Sou **Técnico em Análise e Desenvolvimento de Sistemas** e **Software Developer** apaixonado por tecnologia, desenvolvimento de software e soluções inovadoras. Tenho experiência com diversas linguagens e frameworks, sempre buscando aprimorar minhas habilidades e aprender novas ferramentas para melhorar meus projetos.
-![Minha Foto ou Arte]([https://link-da-imagem.com/imagem.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fpt%2Fpng-eliay&psig=AOvVaw3RaqSaYtulHBITXUKDRVj1&ust=1757598310495000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjAq_SIqs6PAxWUB7kGHWD_Os8QjRx6BAgAEBo))
+![Minha Foto ou Arte]([<img width="348" height="358" alt="gitfoto" src="https://github.com/user-attachments/assets/a3e675a9-c491-4114-b184-609683f02a14" />
+)
 
 **🌐 Ferramentas e Tecnologias que utilizo:**
 
