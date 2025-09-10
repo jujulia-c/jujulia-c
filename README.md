@@ -5,8 +5,8 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e **Software Develope
 
 ✨ "A programação é minha forma de expressar criatividade e inovação." ✨
 
-![Pokémon Rosinha](https://media.giphy.com/media/ggdV3Z8TRwq3y/giphy.gif)  
-*(Aqui você pode colocar o gif do Pokémon rosinha que você achar fofo!)*
+![Pokémon Rosinha](<img width="225" height="225" alt="download-Photoroom" src="https://github.com/user-attachments/assets/1a414bf4-2ebd-466a-a32c-160ab285453e" />
+)  
 
 ## 💼 Ferramentas e Tecnologias que utilizo
 
