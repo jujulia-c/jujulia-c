@@ -40,6 +40,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 - **LinkedIn**: [Julia Carvalho](https://www.linkedin.com/in/julia-carvalho-41b67337a)
 - **E-mail**: juliadcarvalhodsilva37@outlook.com
 
+<![265647582527bac2a43e](https://github.com/user-attachments/assets/20db82ea-5a82-422e-be8e-f47bce87a0d1)>
+
 ---
 
-### 💌 Obrigada por visitar o meu perfil! Espero que possamos compartilhar conhecimento e aprender juntos! 💫
+### 💌 Obrigada por visitar o meu perfil! Espero que possamos compartilhar conhecimento e aprender juntos! 
