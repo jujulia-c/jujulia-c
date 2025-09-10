@@ -1,20 +1,20 @@
-# 🌸 Olá, seja bem-vindo ao meu perfil! 🌸
+# 🌸 Olá, seja bem-vindo ao meu perfil! 
 
-## 💖 Sobre mim
+##  Sobre mim
 Sou **Técnico em Análise e Desenvolvimento de Sistemas** e **Software Developer** apaixonada por tecnologia, desenvolvimento de software e soluções inovadoras. Tenho experiência com diversas linguagens e frameworks, sempre buscando aprimorar minhas habilidades e aprender novas ferramentas para melhorar meus projetos. 
 
-✨ "A programação é minha forma de expressar criatividade e inovação." ✨
+✨ "A programação é minha forma de expressar criatividade e inovação." 
 
 <img width="225" height="225" alt="download-Photoroom" src="https://github.com/user-attachments/assets/1a414bf4-2ebd-466a-a32c-160ab285453e" /> 
 
 ## 💼 Ferramentas e Tecnologias que utilizo
 
-- 🌱 **Front-end**: HTML, CSS, JavaScript, React, Vue.js
-- 💻 **Back-end**: Node.js, Python, Java, C#, Ruby
-- 🔧 **Ferramentas**: Git, Docker, VS Code, Jenkins, GitHub Actions
-- 📚 **Banco de Dados**: MySQL, MongoDB, PostgreSQL
-- 🚀 **Cloud**: AWS, Heroku, Netlify
-- ⚙️ **Metodologias**: Agile, Scrum, DevOps
+-  **Front-end**: HTML, CSS, JavaScript, React, Vue.js
+-  **Back-end**: Node.js, Python, Java, C#, Ruby
+-  **Ferramentas**: Git, Docker, VS Code, Jenkins, GitHub Actions
+-  **Banco de Dados**: MySQL, MongoDB, PostgreSQL
+-  **Cloud**: AWS, Heroku, Netlify
+-  **Metodologias**: Agile, Scrum, DevOps
 
 ---
 
