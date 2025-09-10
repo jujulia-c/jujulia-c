@@ -26,21 +26,12 @@ Sou **Técnico em Análise e Desenvolvimento de Sistemas** e **Software Develope
 
 ---
 
-## 🌟 Projetos em destaque
-Aqui estão alguns dos meus projetos mais recentes:
-
-- **[Projeto 1](https://github.com/seu-usuario-github/projeto1)**: Descrição breve do projeto, o que ele faz e as tecnologias usadas.
-- **[Projeto 2](https://github.com/seu-usuario-github/projeto2)**: Descrição breve do projeto, focando nas funcionalidades e inovação.
-- **[Projeto 3](https://github.com/seu-usuario-github/projeto3)**: Detalhes sobre como o projeto foi implementado e as soluções adotadas.
-
----
-
 ## 📬 Como me encontrar
 
 - **LinkedIn**: [Julia Carvalho](https://www.linkedin.com/in/julia-carvalho-41b67337a)
 - **E-mail**: juliadcarvalhodsilva37@outlook.com
 
-<![265647582527bac2a43e](https://github.com/user-attachments/assets/20db82ea-5a82-422e-be8e-f47bce87a0d1)>
+![265647582527bac2a43e](https://github.com/user-attachments/assets/20db82ea-5a82-422e-be8e-f47bce87a0d1)
 
 ---
 
