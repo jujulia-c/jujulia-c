@@ -1,38 +1,41 @@
-# 🌸 Olá, seja bem-vindo ao meu perfil! 
+# Hello, World! 
+# Welcome to my profile!
 
-##  Sobre mim
-Sou **Técnico em Análise e Desenvolvimento de Sistemas** e **Software Developer** apaixonada por tecnologia, desenvolvimento de software e soluções inovadoras. Tenho experiência com diversas linguagens e frameworks, sempre buscando aprimorar minhas habilidades e aprender novas ferramentas para melhorar meus projetos. 
-
-✨ "A programação é minha forma de expressar criatividade e inovação." 
-
-<img width="225" height="225" alt="download-Photoroom" src="https://github.com/user-attachments/assets/1a414bf4-2ebd-466a-a32c-160ab285453e" /> 
-
-## 💼 Ferramentas e Tecnologias que utilizo
-
--  **Front-end**: HTML, CSS, JavaScript, React, Vue.js
--  **Back-end**: Node.js, Python, Java, C#, Ruby
--  **Ferramentas**: Git, Docker, VS Code, Jenkins, GitHub Actions
--  **Banco de Dados**: MySQL, MongoDB, PostgreSQL
--  **Cloud**: AWS, Heroku, Netlify
--  **Metodologias**: Agile, Scrum, DevOps
+Welcome to my GitHub profile! I am a developer passionate about creating complete, secure, and efficient digital solutions, moving seamlessly between software development (Full Stack & Mobile) and Cybersecurity.
 
 ---
 
-## 📊 Estatísticas
+## 🚀 About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=transparent&hide=prs&count_private=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=transparent)
-
----
-
-## 📬 Como me encontrar
-
-- **LinkedIn**: [Julia Carvalho](https://www.linkedin.com/in/julia-carvalho-41b67337a)
-- **E-mail**: juliadcarvalhodsilva37@outlook.com
-
-![265647582527bac2a43e](https://github.com/user-attachments/assets/20db82ea-5a82-422e-be8e-f47bce87a0d1)
+* **Web & Mobile Development:** I build modern, high-performance websites and intuitive applications for various platforms.
+* **Full Stack:** I master both Front-end (UI/UX) and Back-end (business logic, APIs, and databases).
+* **Cybersecurity:** I always strive to build secure applications (*Secure by Design*), applying data protection concepts, testing, and defensive security best practices.
 
 ---
 
-### 💌 Obrigada por visitar o meu perfil! Espero que possamos compartilhar conhecimento e aprender juntos! 
+## 🛠️ Tech Stack & Tools
+
+Here are some of the main technologies I work with on a daily basis:
+
+* **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js
+* **Back-end:** Node.js, Python, Express, RESTful APIs
+* **Mobile:** React Native, Flutter
+* **Cybersecurity:** OWASP Top 10, Vulnerability Analysis, Pentesting Basics, and Secure Coding Practices
+* **Databases & Tools:** MySQL, PostgreSQL, Git, GitHub, Docker
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Let's Connect?
+
+Want to chat about a project, discuss software development, or talk about cybersecurity? Reach out to me:
+
+* **LinkedIn:** [Insert your LinkedIn link here]
+* **E-mail:** [Insert your professional email here]
